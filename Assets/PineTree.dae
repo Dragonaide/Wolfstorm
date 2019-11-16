@@ -6,5 +6,11 @@
         <init_from>PineTreeTexture.png</init_from>
       </image>
     </library_images>
+    <library_geometries>
+      <geometry id="pine_tree_mesh" name="pine_tree_mesh">
+        <mesh>
+        </mesh>
+      </geometry>
+    </library_geometries>
   </asset>
 </COLLADA>
