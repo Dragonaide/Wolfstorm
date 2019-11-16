@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <library_images>
+      <image id="pine_tree_texture" name="pine_tree_texture">
+        <init_from>PineTreeTexture.png</init_from>
+      </image>
+    </library_images>
+  </asset>
+</COLLADA>
